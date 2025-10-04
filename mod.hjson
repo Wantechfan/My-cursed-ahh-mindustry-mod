@@ -4,6 +4,6 @@
 	"author": "WantechFan",
 	"description": "Cursed bundles",
 	"version": 1.0,
-	"hidden": false,
+	"hidden": true,
 	"minGameVersion": 147
 }
