@@ -3,7 +3,7 @@
 	"displayName": "My cursed ahh mindustry bundles",
 	"author": "WantechFan",
 	"description": "Cursed bundles",
-	"version": 1.0,
-	"hidden": true,
+	"version": 1.1,
+	"hidden": false,
 	"minGameVersion": 147
 }
