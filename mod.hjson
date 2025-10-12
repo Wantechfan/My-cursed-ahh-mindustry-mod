@@ -1,9 +1,9 @@
 {
-	"name": "My-cursed-ahh-mindustry-mod",
+	"name": "WantechFan's-cursed-ahh-mindustry-mod",
 	"displayName": "Cursed Bundles",
 	"author": "WantechFan",
-	"description": "very very cursed bundles. Hand made by me",
+	"description": "Changes every text ingame with cursed ones. Hand made by me",
 	"version": 1.4,
-	"hidden": false,
-	"minGameVersion": 147
+	"minGameVersion": 147,
+    "subtitle": "Bruh texts"
 }
