@@ -3,6 +3,6 @@ displayName: "Cursed Bundles"
 author: "WantechFan"
 description: "Changes every text ingame with cursed ones. Hand made by me."
 version: "1.4"
-minGameVersion: "147"
+minGameVersion: "146"
 hidden: true
 subtitle: "Random but normal texts."
