@@ -2,7 +2,7 @@ name: "WantechFan's-cursed-bundles"
 displayName: "Cursed Bundles"
 author: "WantechFan"
 description: "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent[]]click repo and start a pull request[[]]."
-version: "1.6"
+version: "1.9"
 minGameVersion: "146"
 hidden: true
 subtitle: "Random but normal texts."
