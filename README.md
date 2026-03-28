@@ -6,4 +6,4 @@ Plans for future
 2. Same thing for Aquarion, Exoprosopa, etc. (Undone)
 3. ID bundle. (Half done)
 
-Request random texts here: https://discord.com/channels/391020510269669376/1187241575525404692/threads/1428283291357810800
+Ask stuff about this mod [here](https://discord.com/channels/391020510269669376/1428283291357810800).
