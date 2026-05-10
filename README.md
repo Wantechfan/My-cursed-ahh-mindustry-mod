@@ -9,5 +9,5 @@ Plans for future
 2. Same thing for Aquarion, Exoprosopa, etc. (Undone)
 3. ID bundle. (Half done)
 <!--a uhh -->
-[Badge Discord]: https://img.shields.io/discord/1502200382347022346?style=for-the-badge&label=Dihcord
+[Badge Discord]: https://img.shields.io/discord/1502200382347022346?style=for-the-badge&label=Dihcord%20Serfer
 [Discord]: https://discord.gg/rjQndaHGFu
